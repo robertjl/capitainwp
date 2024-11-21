@@ -1,19 +1,9 @@
 {
     "$schema": "https://schemas.wp.org/trunk/theme.json",
     "version": 3,
-    "settings": {
-        "layout": {},
-        "color": {},
-        "spacing": {},
-        "typography": {},
-        "custom": {},
-        "blocks": {}
-    },
-    "styles": {
-        "color": {},
-        "spacing": {},
-        "typography": {},
-        "elements": {}
-    },
-    "templateParts": []
+    "settings": {},
+    "styles": {},
+    "customTemplates": {},
+    "templateParts": {},
+    "patterns": {},
 }
